@@ -36,7 +36,7 @@ __root=$(realpath -s "${__root}")
 
 
 ########################### properties config ##########################
-image_organization=fiscoorg
+image_organization=toby1991
 image_name="fisco-webase"
 docker_push="no"
 latest_tag=latest
